@@ -31,6 +31,16 @@ This project demonstrates how brute force and dictionary attacks work. Using Cai
 - **Unique Passwords**: Use a different password for each of your online accounts.
 - **Password Managers**: Consider using a password manager to help you generate and store complex passwords securely.
 
+## Motive for this Project
+
+I was recently exploring Google One's "Dark Web Report" feature when I made a startling discovery: several of my accounts had been compromised in various data breaches. Using the website "[https://haveibeenpwned.com/](https://haveibeenpwned.com/)", I could see exactly which breaches involved my email address.
+
+This realization was a wake-up call. If a hacker gains access to my email from just one breach, they can easily identify all other breaches associated with that email and potentially piece together a complete profile of my online activity. With leaked usernames and passwords, they could attempt to access a multitude of websites where I might have reused login information.
+
+Unfortunately, I'm guilty of reusing passwords across different sites, either due to laziness or a desire for easily remembered credentials. While some websites alert users to suspicious login attempts, others do not. This lack of transparency adds to the risk.
+
+This experience sparked my desire to create this project. I want to raise awareness about the dangers of password reuse and the importance of proactive online security. Even those of us who know the risks sometimes engage in unsafe practices. I hope to provide tools and strategies to help people protect their digital identities.
+
 ## Disclaimer
 
 This project is strictly for educational purposes. Do not use password cracking tools with malicious intent.
